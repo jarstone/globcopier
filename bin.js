@@ -52,7 +52,6 @@ function watcher() {
 }
 
 void (async () => {
-	console.clear()
 	if (process.argv[3] === '--watch') {
 		watcher()
 	} else {
