@@ -1,6 +1,6 @@
 {
 	"name": "globcopier",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"bin": "bin.js",
 	"repository": "git@github.com:jarstone/globcopier.git",
 	"author": "jarstone <jarstone.official@gmail.com>",
