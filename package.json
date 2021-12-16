@@ -1,0 +1,18 @@
+{
+	"name": "globcopier",
+	"version": "1.0.0",
+	"bin": "bin.js",
+	"repository": "git@github.com:jarstone/globcopier.git",
+	"author": "jarstone <jarstone.official@gmail.com>",
+	"license": "MIT",
+	"keywords": [
+		"glob",
+		"copy",
+		"glob copy",
+		"glob copier"
+	],
+	"dependencies": {
+		"chokidar": "3.5.2",
+		"vinyl-fs": "3.0.3"
+	}
+}
